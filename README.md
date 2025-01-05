@@ -54,9 +54,6 @@ The **URL-Shortener** is a web application that allows users to convert long URL
 - Implement analytics to track clicks on short URLs.
 - Enable custom short URL creation.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Contact
 For any questions or suggestions, feel free to reach out:
 - **Email**: shivamanand9009@gmail.com
